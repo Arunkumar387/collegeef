@@ -1,0 +1,102 @@
+body {
+    background-color: rgba(240, 255, 255, 0.336);
+}
+.menu { 
+	padding: 0; 
+	margin-left: 6%;
+} 
+
+.main-content {
+    display: block;
+}
+h3,h4 {
+    display: block;
+    padding-top: 3%;
+    margin: 0;
+}
+.fac-details h2 {
+    text-align: center;
+    color :rgb(9, 119, 27);
+}
+.fac-content {
+    margin-top : 5%;
+}
+.fac-types {
+    background-color: #98f3f3;
+    padding-right: 5%;
+    margin: 2%;
+    margin-left: 0; 
+    margin-right: 0;
+    border: 2px solid;
+    width: 94.5%;
+}
+.fac-types ul {
+    display: inline;
+    margin-left: 7%;
+}
+.fac-types li {
+    display: inline-block;
+    list-style: none;
+    width: 10%;
+    padding: 1%;
+}
+.fac-types li a {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+} 
+.fac-details {
+    float: left;
+    background-color: #98f3f3;
+    padding: 3%;
+    margin: 2%;
+    margin-top: 5%;
+    margin-left: 1%;
+    border: 2px solid;
+    height: 100%;
+    width: 90%;
+}
+.hod-head {
+    text-align: center;
+    color: blueviolet;
+}
+.hod-info{
+    text-align: center;
+    border: 1px solid black;
+    width: fit-content;
+    margin-left: 38%;
+    padding: 3%;
+    padding-left: 0;
+    padding-right: 0;
+
+}
+
+.facilities-para {
+    display: inline;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.classrooms-para {
+    font-size: larger;
+}
+#classroom-para {
+    display: none;
+}
+#lab-para {
+    text-align: center;
+}
+
+.my-col img {
+    height : 300px ;
+    width : 300px ;
+}
+.my-col h3 {
+    color : white;
+}
+
+.info {
+    border: 2px;
+}
+
+.library-heading {
+    display: block;
+}
